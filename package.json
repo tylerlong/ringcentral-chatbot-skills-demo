@@ -1,9 +1,11 @@
 {
+  "license": "MIT",
   "scripts": {
-    "ngrok": "ngrok http -region eu 3000"
+    "ngrok": "ngrok http -region eu 3000",
+    "start": "node -r @babel/register -r dotenv/config index.js"
   },
   "dependencies": {
-    "ringcentral-chatbot": "^0.4.5",
+    "ringcentral-chatbot": "^0.4.6",
     "ringcentral-chatbot-skill-ping": "^0.1.0",
     "sqlite3": "^4.0.4"
   },

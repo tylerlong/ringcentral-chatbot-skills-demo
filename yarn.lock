@@ -2838,10 +2838,10 @@ ringcentral-chatbot-skill-ping@^0.1.0:
   resolved "https://registry.yarnpkg.com/ringcentral-chatbot-skill-ping/-/ringcentral-chatbot-skill-ping-0.1.0.tgz#affc57c811272e5831a048464cef53ebb4f139d5"
   integrity sha512-R4SkjjygfH6gtsftvofQJoUR+YOXjMcAs8qwU6QM4aBzcOlf72clz9mes129iVfesZs2spp+jPKJpCejvV80fA==
 
-ringcentral-chatbot@^0.4.5:
-  version "0.4.5"
-  resolved "https://registry.yarnpkg.com/ringcentral-chatbot/-/ringcentral-chatbot-0.4.5.tgz#81112abace01d9b04389f6d5c8dab4e9edbc72f9"
-  integrity sha512-Z6yhSVxLqx1OqcbRyEATzr/Gc6T5IHro8q7Qf6pMddy6oTDhlWFRG514PMU8MXlGWdgOAr0lB7ErSSUr8pnIIA==
+ringcentral-chatbot@^0.4.6:
+  version "0.4.6"
+  resolved "https://registry.yarnpkg.com/ringcentral-chatbot/-/ringcentral-chatbot-0.4.6.tgz#12ebd1dd6525b8a94a6ec35165c2d1d5f99aa09c"
+  integrity sha512-fsHRvqCc3XA1zZwkTn7Vhe0hoTnxEbHQeU7bdZhNyJLGOosjXExbQHLiGXiDxb54JZw6Y1VqvqGGExxY5GWRlA==
   dependencies:
     aws-sdk "^2.382.0"
     axios "^0.18.0"
