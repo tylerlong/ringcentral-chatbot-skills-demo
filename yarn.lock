@@ -2833,10 +2833,10 @@ rimraf@^2.6.1, rimraf@~2.6.2:
   dependencies:
     glob "^7.0.5"
 
-ringcentral-chatbot-skill-ping@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/ringcentral-chatbot-skill-ping/-/ringcentral-chatbot-skill-ping-0.1.1.tgz#6795f6ea1a8dbbb904deb3221699741793163ec0"
-  integrity sha512-Wh0M2OBF6IMVOP32s+tkyuHbJ+oYuxGvhKjlRYy+oDORBCr0wXhTj8SpydXZ1didrSfdUjh7kcAJn5neSUZIeA==
+ringcentral-chatbot-skill-ping@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/ringcentral-chatbot-skill-ping/-/ringcentral-chatbot-skill-ping-0.1.2.tgz#5ef8dba4622bfc883d47e996b31c44b79b2c5fcf"
+  integrity sha512-6iM9aOx4hafyRbmv7JihYnnUXjRHzWfnSuqIf/AbkeKY9lhaS5jMyDrTkMuYfVdtZaftNjvkTaqq8JrcHjjIkg==
 
 ringcentral-chatbot@^0.4.6:
   version "0.4.6"

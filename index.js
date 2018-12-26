@@ -12,4 +12,4 @@ const app = createApp(handle, [
 //   fooSkill,
 //   barSkill
 ])
-app.listen(3000)
+app.listen(process.env.RINGCENTRAL_CHATBOT_EXPRESS_PORT)
